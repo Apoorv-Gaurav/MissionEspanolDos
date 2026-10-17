@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: fcf6dc31a8f94324889dd74bd6e0acd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5153438405243765692
+    second: 16-Frame Pixel Schoolboy Sprite Sheet_0
+  - first:
+      213: -8542182029397066944
+    second: 16-Frame Pixel Schoolboy Sprite Sheet_1
+  - first:
+      213: 2675564616550117962
+    second: 16-Frame Pixel Schoolboy Sprite Sheet_2
+  - first:
+      213: 469476631518424597
+    second: 16-Frame Pixel Schoolboy Sprite Sheet_3
+  - first:
+      213: 360703218704919285
+    second: 16-Frame Pixel Schoolboy Sprite Sheet_4
+  - first:
+      213: -4461781241171695710
+    second: 16-Frame Pixel Schoolboy Sprite Sheet_5
+  - first:
+      213: 2512999263727134021
+    second: 16-Frame Pixel Schoolboy Sprite Sheet_6
+  - first:
+      213: -3562174075218246834
+    second: 16-Frame Pixel Schoolboy Sprite Sheet_7
+  - first:
+      213: -8424811390534539980
+    second: 16-Frame Pixel Schoolboy Sprite Sheet_8
+  - first:
+      213: 3000113709274771909
+    second: 16-Frame Pixel Schoolboy Sprite Sheet_9
+  - first:
+      213: 5782480074191013931
+    second: 16-Frame Pixel Schoolboy Sprite Sheet_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 758
+        width: 187
+        height: 266
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3096cece0b48740800000000000000
+      internalID: 5153438405243765692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 765
+        width: 166
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bff03e3b2147980800000000000000
+      internalID: -8542182029397066944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 758
+        width: 174
+        height: 266
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42f21fc7d3812520800000000000000
+      internalID: 2675564616550117962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 758
+        width: 172
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ea00c428ae38600800000000000000
+      internalID: 469476631518424597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 512
+        width: 180
+        height: 239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa2f349aa9710500800000000000000
+      internalID: 360703218704919285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 512
+        width: 177
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7a576c9919412c0800000000000000
+      internalID: -4461781241171695710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 512
+        width: 176
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54526431487ffd220800000000000000
+      internalID: 2512999263727134021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 512
+        width: 184
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43c2824d8d909ec0800000000000000
+      internalID: -3562174075218246834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 256
+        width: 171
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43526874dae051b80800000000000000
+      internalID: -8424811390534539980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 257
+        width: 186
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c13a17f58b82a920800000000000000
+      internalID: 3000113709274771909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 256
+        width: 187
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b280ee69dfe7f3050800000000000000
+      internalID: 5782480074191013931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 256
+        width: 178
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687541b45e31a104ea93857dcf4465ee
+      internalID: 1828705137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 174
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5afa91490197964698bde9b038c751d
+      internalID: 327611269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2
+        width: 173
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f1830b78204d041bfa1c2f2ed4ad9b
+      internalID: 501898927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2
+        width: 177
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa55bcb2238ffe44b882621eaaa2e2e1
+      internalID: 980292661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Pixel Schoolboy Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 0
+        width: 169
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441d4f115a85f9141a0ea3d52649a21d
+      internalID: -763293202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6ceba0b3280dc9744b321607ef8ef4ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":384.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      16-Frame Pixel Schoolboy Sprite Sheet_0: 5153438405243765692
+      16-Frame Pixel Schoolboy Sprite Sheet_1: -8542182029397066944
+      16-Frame Pixel Schoolboy Sprite Sheet_10: 5782480074191013931
+      16-Frame Pixel Schoolboy Sprite Sheet_11: 1828705137
+      16-Frame Pixel Schoolboy Sprite Sheet_12: 327611269
+      16-Frame Pixel Schoolboy Sprite Sheet_13: 501898927
+      16-Frame Pixel Schoolboy Sprite Sheet_14: 980292661
+      16-Frame Pixel Schoolboy Sprite Sheet_15: -763293202
+      16-Frame Pixel Schoolboy Sprite Sheet_2: 2675564616550117962
+      16-Frame Pixel Schoolboy Sprite Sheet_3: 469476631518424597
+      16-Frame Pixel Schoolboy Sprite Sheet_4: 360703218704919285
+      16-Frame Pixel Schoolboy Sprite Sheet_5: -4461781241171695710
+      16-Frame Pixel Schoolboy Sprite Sheet_6: 2512999263727134021
+      16-Frame Pixel Schoolboy Sprite Sheet_7: -3562174075218246834
+      16-Frame Pixel Schoolboy Sprite Sheet_8: -8424811390534539980
+      16-Frame Pixel Schoolboy Sprite Sheet_9: 3000113709274771909
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
