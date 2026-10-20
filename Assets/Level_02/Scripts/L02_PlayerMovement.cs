@@ -1,18 +1,16 @@
 
 using UnityEngine;
 
-public class PlayerMovement1 : MonoBehaviour
+public class L02_PlayerMovement : MonoBehaviour
 {
     public float speed = 5f;
 
     private Rigidbody2D rb;
-    private Animator animator;
     private Vector2 movement;
 
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
     }
 
     void Update()
@@ -22,10 +20,6 @@ public class PlayerMovement1 : MonoBehaviour
 
         // Prevent faster diagonal movement
         movement = movement.normalized;
-
-        // Update animation direction
-        animator.SetFloat("MoveX", movement.x);
-        animator.SetFloat("MoveY", movement.y);
     }
 
     void FixedUpdate()
